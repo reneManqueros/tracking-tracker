@@ -1,0 +1,7 @@
+{
+  "cdpurl":  "http://0.0.0.0:9222",
+  "notification_providers": [
+    "gotify"
+  ],
+  "gotify_url": "http://localhost:1234/message?token=<TOKEN>>"
+}
