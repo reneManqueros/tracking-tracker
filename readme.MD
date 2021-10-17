@@ -49,7 +49,7 @@ google-chrome --headless --remote-debugging-port=9222
 ```
 
 ```
-chromium-browser-chrome --headless --remote-debugging-port=9222
+chromium-browser --headless --remote-debugging-port=9222
 ```
 
 
