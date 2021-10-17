@@ -24,22 +24,22 @@ cp config.json.sample config.json
 ## Usage
 Usage help:
 ```shell
-./tracking-tracker
+./trackingtracker
 ```
 
 Register a new tracking code: 
 ```shell
-./tracking-tracker register [fedex|cainiao|usps] [tracking code]
+./trackingtracker register [fedex|cainiao|usps] [tracking code]
 ```
 
 Remove a tracking code: 
 ```shell
-./tracking-tracker remove [tracking code]
+./trackingtracker remove [tracking code]
 ```
 
 Crawl all registered tracking codes: 
 ```shell
-./tracking-tracker crawl
+./trackingtracker crawl
 ```
  
 ## Notes
